@@ -1,0 +1,5 @@
+.highlighted {
+    background-color: yellow;
+    color: black !important; /* Set text color to black */
+    /* Add any other styles for highlighting here */
+}
